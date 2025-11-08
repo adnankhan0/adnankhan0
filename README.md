@@ -8,7 +8,7 @@ I’m passionate about building intelligent systems that connect technology with
 ## 🧠 About Me  
 
 - 🎓 **Final Year Software Engineering Student**  
-- 💡 Exploring **AI Human Cloning (SoulTwin)** – a project blending machine learning and personality modeling.  
+- 💡 Exploring **AI Human Cloning (SoulTwin)**  a project blending machine learning and personality modeling.  
 - 🧾 Developing **AI-Powered Timetable Generator** using **Constraint Satisfaction**, **Genetic Algorithms**, and **Graph Coloring**.  
 - 🌱 Continuously learning about **Machine Learning**, **System Architecture**, and **Intelligent Automation**.  
 - 💬 Always open to discussing AI, optimization, and smart scheduling systems.  
